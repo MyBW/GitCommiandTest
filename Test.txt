@@ -7,4 +7,5 @@ void main()
   std::cout << "Hello World" << std::endl ;
 }
 
-无敌
+how can i break it?
+
