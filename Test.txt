@@ -1,3 +1,10 @@
 this is first git test
 
 now i changet this file
+
+void main()
+{ 
+  std::cout << "Hello World" << std::endl ;
+}
+
+无敌
